@@ -34,7 +34,7 @@ Follow these simple steps to install the VIP Template:
 
 2. **Navigate to the folder** in Terminal:
     ```bash
-    cd VIPTemplate
+    cd Clean-VIP-Template
     ```
 
 3. **Run the installer script** (admin privileges required):
