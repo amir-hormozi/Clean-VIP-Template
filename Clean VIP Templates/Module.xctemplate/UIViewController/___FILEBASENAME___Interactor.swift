@@ -6,12 +6,10 @@
 //
 
 
-// MARK: VIP Protocol
 protocol ___VARIABLE_sceneName___BusinessLogic { }
 
 protocol ___VARIABLE_sceneName___DataStore { }
 
-// MARK: Module Body
 class ___VARIABLE_sceneName___Interactor: ___VARIABLE_sceneName___DataStore, ___VARIABLE_sceneName___BusinessLogic {
     
     // MARK: Variable
