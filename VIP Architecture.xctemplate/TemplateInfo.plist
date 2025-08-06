@@ -5,7 +5,7 @@
 	<key>DefaultCompletionName</key>
 	<string>MyScene</string>
   <key>Description</key>
-  <string>Part Software Group Template for VIP Architecture.</string>
+  <string>Amir Hormozi Template for VIP Architecture.</string>
   <key>Kind</key>
   <string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
   <key>Options</key>
@@ -34,13 +34,27 @@
     </dict>
     <dict>
 			<key>Default</key>
+			<string>___VARIABLE_sceneName:identifier___Configurator</string>
+			<key>Description</key>
+			<string>The Configurator name</string>
+			<key>Identifier</key>
+			<string>configurator Name</string>
+			<key>Name</key>
+			<string>Configurator Name:</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>static</string>
+    </dict>
+    <dict>
+			<key>Default</key>
 			<string>___VARIABLE_sceneName:identifier___ViewController</string>
 			<key>Description</key>
-			<string>The view controller name</string>
+			<string>The viewController name</string>
 			<key>Identifier</key>
 			<string>viewControllerName</string>
 			<key>Name</key>
-			<string>View Controller Name:</string>
+			<string>ViewController Name:</string>
 			<key>Required</key>
 			<true/>
 			<key>Type</key>
