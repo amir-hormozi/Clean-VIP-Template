@@ -3,7 +3,7 @@
 Simplify your iOS projects with the **VIP (View, Interactor, Presenter)** template for Xcode!  
 This template helps you build scalable, maintainable, and well-structured iOS applications by promoting separation of concerns and clean architecture.
 
-![swift-vip](https://user-images.githubusercontent.com/23221497/203474060-ffdfa5b7-a67a-4518-bad8-e97ea4d0c83e.png)
+<img width="1440" height="652" alt="VIP Template" src="https://github.com/user-attachments/assets/64429f8e-3455-4ae6-96ef-59a20ef76eb6" />
 
 ---
 
@@ -71,8 +71,6 @@ YourModule/
 ```
 
 Enjoy working with a ready-to-scale, testable and beautiful structure! 💼
-
-<img width="1440" height="652" alt="VIP Template" src="https://github.com/user-attachments/assets/64429f8e-3455-4ae6-96ef-59a20ef76eb6" />
 
 ---
 
